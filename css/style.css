@@ -647,6 +647,14 @@ span {
 } 
 
 @media (max-width: 991px) {
+    .navbar a {
+        position: relative;
+        font-size: 1.4rem;
+        color: var(--white-color);
+        font-weight: 500;
+        margin-right: .2rem;
+    }
+
     .navbar a:nth-child(1),
     .navbar a:nth-child(2) {
         color: var(--main-color);
@@ -791,7 +799,7 @@ span {
     }
 
     .home .profession-box .profession:nth-child(4) {
-        transform: rotate(180deg) translate(-220px, -335px);
+        transform: rotate(180deg) translate(-190px, -335px);
     }
 
     .home .portfolio-box .circle {
@@ -879,7 +887,7 @@ span {
     }
 
     .home .profession-box .profession:nth-child(4) {
-        transform: rotate(180deg) translate(-210px, -335px);
+        transform: rotate(180deg) translate(-180px, -335px);
     }
 
     .contact form .input-box input {
