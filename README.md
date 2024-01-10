@@ -1,9 +1,10 @@
 # Myportfolio
-Halo semuanya, terima kasih telah berkunjung. Situs web ini dirancang sebagai media untuk memperkenalkan diri saya kepada publik.  Silakan jadikan ini sebagai referensi. Salam;
+#### Merancang untuk media perkenalan diri saya kepada publik
+Halo Semua. Terimakasih sudah berkunjung ke halaman repositories github pribadi saya, saya berharap kerjasama baik dan dapat menjadi refrensi terhadap teman-teman. Salam kenal!
 
 RESPONSIVE PORTFOLIO WEBSITE USING : 
 -HTML
 -CSS
 -JAVASCRIPT
 
-DARK/LIGHT MODE
+> Fitur : Mode Terang / Gelap <
